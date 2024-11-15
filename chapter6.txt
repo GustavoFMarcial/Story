@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Agora é a hora do show das poderosas!!!
+=======
+Vamos sambar ???
+>>>>>>> novo-poema

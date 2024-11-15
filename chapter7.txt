@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vai para casa do caralho!!!
+=======
+vai para casa do Joba!!!
+>>>>>>> novo-poema
